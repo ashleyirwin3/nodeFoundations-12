@@ -1,0 +1,10 @@
+{
+  "list": [
+    { "id": "1", "firstName": "Jane", "lastName": "Eyre", "job": "Cashier", "address": "123 Somewhere"},
+    { "id": "2", "firstName": "Elizabeth", "lastName": "Bennet", "job": "Cashier", "address": "123 Somewhere Else" },
+    { "id": "3", "firstName": "Violet", "lastName": "Baudelaire", "job": "Cashier", "address": "123 Another Place" },
+    { "id": "4", "firstName": "Lily", "lastName": "Bart", "job": "Cashier", "address": "456 Someplace" },
+    { "id": "5", "firstName": "Klaus", "lastName": "Baudelaire", "job": "Keyholder", "address": "789 Someplace Else" },
+    { "id": "6", "firstName": "Joan", "lastName": "Martin", "job": "Cashier", "address": "1011 Anywhere Else" }
+  ]
+}
